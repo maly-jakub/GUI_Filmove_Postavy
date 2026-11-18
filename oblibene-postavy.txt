@@ -1,0 +1,5 @@
+Harry Potter	17	muž	False	2026-09-01	4.9
+Hermiona Grangerová	17	žena	False	2026-09-01	4.7
+Barbie	25	žena	False	2026-08-12	3.9
+Lara Croft	28	žena	False	2026-02-14	3.6
+C-3PO	112	neurčeno	False	2026-05-04	3.2
